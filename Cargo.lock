@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "adder"
+version = "0.1.0"
+
+[[package]]
 name = "branches"
 version = "0.1.0"
 
@@ -46,6 +50,10 @@ checksum = "97b3888a4aecf77e811145cadf6eef5901f4782c53886191b2f693f24761847c"
 
 [[package]]
 name = "loops"
+version = "0.1.0"
+
+[[package]]
+name = "minigrep"
 version = "0.1.0"
 
 [[package]]

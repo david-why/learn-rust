@@ -25,6 +25,11 @@ fn main() {
         active: true,
         ..user1
     };
+
+    let v = vec![1, 2, 3, 4, 5];
+    for i in v {
+        println!("{}", i);
+    }
 }
 
 fn make_user(username: String, email: String) -> User {
